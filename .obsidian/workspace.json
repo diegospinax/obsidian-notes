@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f53f8716e7d403ef",
+        "id": "b926f5cb573abd44",
         "type": "tabs",
         "children": [
           {
-            "id": "f6d1187b2b1a440d",
+            "id": "ad31fbe9cef7e471",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Java/Concurrencia/Introducción.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introducción"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Java/Concurrency/Introducción.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Introducción"
             }
           },
           {
@@ -176,11 +181,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "900612648040e36d",
+  "active": "ad31fbe9cef7e471",
   "lastOpenFiles": [
+    "Java/Concurrencia/Threads.md",
+    "Java/Concurrencia/Introducción.md",
+    "Excalidraw/Drawing 2025-10-28 00.05.09.excalidraw.md",
+    "Java/Concurrencia/assets/concurrency-deadlock.png",
+    "Java/Concurrencia/assets",
+    "Excalidraw/concurrency-deadlock.excalidraw.md",
+    "Excalidraw",
+    "Linux/Linux básico.md",
+    "OCI/OCI.md",
+    "Excalidraw/Drawing 2025-10-27 21.08.22.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-27 20.15.46.excalidraw.md",
+    "Java/Concurrencia",
+    "Java",
     "SQL/Triggers.md",
     "Excalidraw/Drawing 2025-10-26 21.17.49.excalidraw.md",
-    "Excalidraw",
     "Excalidraw/Drawing 2025-10-26 21.08.16.excalidraw.md",
     "Excalidraw/Drawing 2025-10-26 21.08.11.excalidraw.md",
     "Daily notes.md",
@@ -198,25 +215,14 @@
     "KeyCloak Notes.md",
     "Untitled.base",
     "Untitled 1.base",
-    "OCI/OCI.md",
-    "Linux/Linux básico.md",
     "Linux/Instalando Java.md",
-    "Conceptos de seguridad/Single Sign-on.md",
-    "Conceptos de seguridad/SAML.md",
-    "Conceptos de seguridad/Identity Brokering.md",
-    "Conceptos de seguridad/Fine Grained Authorization.md",
-    "Arquitectura/Notas de Arquitectura.md",
-    "Angular Notes/Directivas/Como crear directivas personalizadas.md",
     "OCI/Untitled.canvas",
     "OCI",
     "Redes",
     "UI UX",
     "SQL",
-    "Spring/JPA",
     "Java/Java Avanzado CF/img/coding_principles.png",
-    "Java/Java Avanzado CF/img",
     "Pasted image 20250427184822.png",
-    "Java/Java Avanzado CF",
     "Sin título.canvas",
     "Angular Notes/imgs/Ciclo de vida de los componentes.jpg",
     "Pasted image 20250108134558.png"

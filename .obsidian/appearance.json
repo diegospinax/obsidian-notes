@@ -2,5 +2,6 @@
   "cssTheme": "AnuPpuccin",
   "accentColor": "",
   "baseFontSize": 16,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "textFontFamily": "JetBrainsMono Nerd Font"
 }
