@@ -3,5 +3,6 @@
   "accentColor": "",
   "baseFontSize": 16,
   "nativeMenus": false,
-  "textFontFamily": "JetBrainsMono Nerd Font"
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "theme": "obsidian"
 }

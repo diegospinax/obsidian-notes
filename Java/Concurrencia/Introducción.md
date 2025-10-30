@@ -94,3 +94,15 @@ Sin embargo, se puede sabotear este comportamiento mediante los métodos:
 > -> Solo pueden llamarse desde el objeto bloqueado.
 > -> Solo pueden usarse dentro de un `synchronized` ya sea método o bloque.
 
+### Volatile
+
+Cuando hay datos que son accesibles desde múltiples hilos, puede haber veces donde el procesador aplica optimizaciones que pueden corromper la memoria.
+
+-> Puede guardar en su cache información que ya cambiado. Y utilizarla para una operación, lo que ocasiona *corrupción de memoria*.
+
+Para evitar que el procesador realice estas optimizaciones, podemos añadir en la declaración de la variable la palabra `volatile`.
+
+```JAVA
+public volatile String text = "Papaya";
+```
+
